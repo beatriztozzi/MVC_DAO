@@ -5,7 +5,7 @@ import model.Usuario;
 import java.util.Scanner;
 
 public class AutenticacaoView {
-
+//oitudobom
     Scanner sc;
 
     public AutenticacaoView(){
